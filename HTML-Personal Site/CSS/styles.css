@@ -1,0 +1,35 @@
+/************************Tag Selectors*****************************/
+body {
+  background-color: #EEEEEE;
+}
+
+hr {
+  background-color: #EEEEEE;
+  border-color: grey;
+}
+
+h1 {
+  background-color: #25316D;
+  color: white;
+  padding-left: 50px;
+}
+
+h2 {
+  color: white;
+  background-color: #25316D;
+  width: 250px;
+}
+
+h3 {
+  color: #25316D;
+}
+
+/******************************Class Selectors***************************/
+
+
+/*****************************Id Selectors******************************/
+#picture {
+  background-color: #25316D;
+  padding: 10px 10px 10px 10px;
+  margin: 30px 30px 30px 30px;
+}
