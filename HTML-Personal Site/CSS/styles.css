@@ -24,12 +24,28 @@ h3 {
   color: #25316D;
 }
 
+h4 {
+  color: #25316D;
+}
+
 /******************************Class Selectors***************************/
+.bottom-container {
+  margin: 75px auto 25px auto;
+}
 
-
+.info-text {
+  line-height: 1.5;
+}
 /*****************************Id Selectors******************************/
 #picture {
   background-color: #25316D;
   padding: 10px 10px 10px 10px;
   margin: 30px 30px 30px 30px;
+}
+
+#capacities {
+  float: left;
+  padding-right: 50px;
+  margin-right: 50px;
+  border-right: 1px solid;
 }
